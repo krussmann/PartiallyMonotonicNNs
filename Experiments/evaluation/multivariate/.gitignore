@@ -1,0 +1,9 @@
+# Ignore everything:
+*
+
+# Do not ignore these files:
+# Do not ignore these files:
+!.gitignore
+!metric_calc.py
+!Merged/
+!Merged/*
