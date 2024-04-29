@@ -130,7 +130,7 @@ Currently implemented approaches:
 
 ## Multivariate Benchmark results:
 
-Energy Efficiency [Dataset](https://archive.ics.uci.edu/dataset/242/energy+efficiency) - Regressing the **heating load (y1)** given:
+Energy Efficiency [Dataset](https://archive.ics.uci.edu/dataset/242/energy+efficiency) - Regressing the **heating load (y1)** of a building complex given:
 
 Relative Compactness, Surface Area, **Wall Area**, Roof Area, **Overall Height**, Orientation, **Glazing Area**, Glazing Area Distribution,
 
