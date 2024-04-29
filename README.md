@@ -8,7 +8,7 @@ Repository which contains the master thesis code.
 Neural networks have gained prominence for their ability to model complex functions 
 without making explicit assumptions. However, many real-world applications in 
 natural sciences, engineering or healthcare entail prior knowledge of monotonic input-output relationships. By constraining neural networks with this domain knowledge, 
-its decision-making process become more interpretable and trustworthy again, while 
+its decision-making process becomes more interpretable and trustworthy again, while 
 its predictions can improve in fairness. Further, in cases of noisy or limited data, 
 monotonicity constraints have the potential to improve generalizability, broadening 
 the scope of application for these powerful models. This study compares various 
